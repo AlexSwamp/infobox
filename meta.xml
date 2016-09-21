@@ -1,0 +1,7 @@
+<meta>
+    <script src="infoboxC.luac" type="client" />
+    
+    <file src="files/1.png" />
+    <file src="files/2.png" />
+    <file src="files/font.ttf" />
+</meta>
