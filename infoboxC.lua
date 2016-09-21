@@ -1,3 +1,13 @@
+--[[
+********************************************************************************
+	Project owner:		Sanyi
+	Project name: 		Tutorial MTA
+	Developers:   		Sanyi
+	Version:    		v1.0 Open Source
+	Status:     		Stable release
+********************************************************************************
+--]]
+
 local sX, sY = guiGetScreenSize()
 local pW, pH = 300, 35
 local pX, pY = sX/2-pW/2, pH/2
